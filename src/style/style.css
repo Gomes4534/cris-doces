@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(212, 97, 184);
+}
+
+
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
